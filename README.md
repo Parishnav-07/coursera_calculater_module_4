@@ -5,7 +5,7 @@ A shell script that calculates simple interest given the principal amount, annua
 ## Description
 This project is part of a DevOps engineering lab focusing on Git and GitHub workflows. The script is a basic tool to demonstrate bash scripting and version control.
 
-## How to use
+## How to use this
 1. Clone the repository.
 2. Run the script using: `bash simple-interest.sh`
 3. Enter the requested values for Principal, Rate, and Time.
